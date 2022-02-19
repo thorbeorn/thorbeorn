@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thorbeorn</h1>
 <h3 align="center">A passionate system and network administrator and full stack developer from France 🇫🇷</h3>
 
-- 🔭 I’m currently working on **Finish all my started programmes**
+- 🔭 I’m currently working on **Finish all my started projects**
 
 - 🌱 I’m currently learning **On BTS SIO on France**
 

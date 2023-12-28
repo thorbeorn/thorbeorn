@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Finish all my started projects**
 
-- 🌱 I’m currently learning **On BTS SIO on France**
+- 🌱 I’m currently learning **On EPSI on France**
 
 - 👯 I’m looking to collaborate on [Dataheberg](https://github.com/Dataheberg)
 
